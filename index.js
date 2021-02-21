@@ -1,3 +1,5 @@
+// code for chewie game
+
 const canvas = document.getElementById("canva1");
 const ctx = canvas.getContext("2d");
 
