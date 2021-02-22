@@ -1,9 +1,5 @@
 {
-  "cSpell.ignoreWords": [
-    "canva"
-  ],
-  "cSpell.words": [
-    "chewie"
-  ],
+  "cSpell.ignoreWords": ["canva"],
+  "cSpell.words": ["chewie", "cuphead"],
   "liveServer.settings.port": 5501
 }
